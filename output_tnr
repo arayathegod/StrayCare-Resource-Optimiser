@@ -1,0 +1,40 @@
+OUTPUT
+Enter no. of records: 
+5
+Enter weightage of populationDensity, publicInteraction and communityInput (percentage): 
+55 35 10
+Enter Colony name, residentPopulation, strayDogPopulation, no. of incidentReports: 
+A 500 12 0
+B 1000 50 2
+C 3000 130 5
+D 200 5 0
+E 5000 143 1
+Enter Colony name, residentPopulation, strayDogPopulation, no. of incidentReports: 
+Enter Colony name, residentPopulation, strayDogPopulation, no. of incidentReports: 
+Enter Colony name, residentPopulation, strayDogPopulation, no. of incidentReports: 
+Enter Colony name, residentPopulation, strayDogPopulation, no. of incidentReports: 
+Colonies: 
+A 500 12 0
+B 1000 50 2
+C 3000 130 5
+D 200 5 0
+E 5000 143 1
+
+ImpactValues: 
+A 0.0 2.1875 0.0
+B 55.0 5.833333333333333 4.0
+C 40.8974358974359 20.416666666666668 10.0
+D 2.115384615384617 0.0 0.0
+E 9.73076923076923 35.0 2.0
+
+Items: 
+A 12 2.1875
+B 50 64.83333333333334
+C 130 71.31410256410257
+D 5 2.115384615384617
+E 143 46.730769230769226
+Enter total budget, cost per dog: 
+300 2
+
+Maximum impact value: 75.61698717948718
+Selected Colonies: [D 5 2.115384615384617, C 130 71.31410256410257, A 12 2.1875]
